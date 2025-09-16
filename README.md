@@ -72,19 +72,19 @@ Package này bao gồm các Augment AI prompts sau:
 
 ```bash
 cd my-project
-npx augprompt
+augprompt
 ```
 
 ### Xem có prompts nào
 
 ```bash
-npx augprompt --list
+augprompt --list
 ```
 
 ### Update tất cả prompts
 
 ```bash
-npx augprompt
+augprompt
 ```
 
 ## Yêu cầu hệ thống
